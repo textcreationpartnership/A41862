@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great and good news both from Scotland and Ireland being a faithful and particular account of a late terrible engagement betwixt Major-General Kirk, and the Duke of Berwick, and Collonel Sarsfield: as also, a true relation of a late horrid and Popish conspiracy, discover'd, against Their present Majesties King William and Queen Mary. Licensed according to order. March 14. 1690.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41862</idno>
+            <idno type="STC">Wing G1653A</idno>
+            <idno type="STC">ESTC R215549</idno>
+            <idno type="EEBO-CITATION">99827399</idno>
+            <idno type="PROQUEST">99827399</idno>
+            <idno type="VID">31817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1908:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great and good news both from Scotland and Ireland being a faithful and particular account of a late terrible engagement betwixt Major-General Kirk, and the Duke of Berwick, and Collonel Sarsfield: as also, a true relation of a late horrid and Popish conspiracy, discover'd, against Their present Majesties King William and Queen Mary. Licensed according to order. March 14. 1690.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Patridge, in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; imprint year from Wing.</note>
+                  <note>Reproduction of the original in the Cambridge University Library, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kirke, Percy, 1646?-1691 --  Early works to 1800.</term>
+               <term>Sarsfield, Patrick, --  Earl of Lucan, d. 1693 --  Early works to 1800.</term>
+               <term>Berwick, James Fitzjames, --  Duke of, 1670-1734 --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:31817:1"/>
+            <pb facs="tcp:31817:1" rendition="simple:additions"/>
+            <head>Great and Good NEWS BOTH FROM Scotland and Ireland; Being a Faithful and Particular Account of a late <hi>Terrible Engagement</hi> BETWIXT Major-General KIRK, AND THE Duke of <hi>Berwick,</hi> and Collonel <hi>Sarsfield:</hi> AS ALSO, A True Relation of a late Horrid and Popiſh Conſpiracy, Diſcover'd, againſt Their Preſent Majeſties King <hi>WILLIAM</hi> and Queen <hi>MARY.</hi>
+            </head>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <p>Licenſed according to Order.</p>
+                  <closer>
+                     <dateline>
+                        <date>March 14. 1690.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>A Veſſel lately come from <hi>Ireland</hi> to <hi>Plymouth,</hi> informs us of a very hot Diſpute, occaſion'd by the Poli<g ref="char:EOLhyphen"/>cy of Collonel <hi>Kirk,</hi> between a party of the <hi>Iriſh</hi> Rebels, which was as followeth:</p>
+            <p>Collonel <hi>Kirk</hi> hearing that Coll. <hi>Scans<g ref="char:EOLhyphen"/>field,</hi> by the Order of his Maſter K. <hi>James,</hi> had remov'd his Quarters from <hi>Dublin</hi> to <hi>Dundalk,</hi> with about Fourteen Hundred Foot and Horſe under his Command; with<g ref="char:EOLhyphen"/>in Eight Miles of which Collonel <hi>Kirk</hi> lay with Six Hundred Horſe and a Regiment of Foot, conſiſting of a Thouſand Men, who ſtudyed this Stratagem to bring the ſilly <hi>Iriſh</hi> liable to his Mercy.</p>
+            <p>He draws out a Party of Four Hundred Horſe and Four Hundred Foot, and Orders a ſmall parcel of Dragoons to drive before him about Thirty Head of Oxen: In this poſture he advances towards <hi>Dundalk,</hi> till he came (about Evening) within Three Miles of the place, where he cover'd his Party in a convenient Wood, and Order'd the Cattle to be drove that Night about a Mile further, and there leave them. Ha<g ref="char:EOLhyphen"/>ving proceeded thus far in order to his de<g ref="char:EOLhyphen"/>ſign, the Soldiers refreſh'd themſelves and their Horſes with Proviſions they had brought along with them, till the next morning by break of day, Collonel <hi>Kirk</hi> Commanded out ſome Spyes to give him notice of any Motion that the <hi>Iriſh</hi> ſhould make out of <hi>Dundbalk.</hi> By this time the Cattle had ſtragled into ſome good Pa<g ref="char:EOLhyphen"/>ſtures, and (as their cuſtom is) upon break of day, the Oxen began to Roar one to ano<g ref="char:EOLhyphen"/>ther, which immediately Allarm'd the <hi>Iriſh</hi> in <hi>Dundalk</hi> with much Joy, who had for a long time lay'n under great want of Pro<g ref="char:EOLhyphen"/>viſions. News was immediately carryed to Collonel <hi>Sarcsfield</hi> in the Town, that they heard, and could likewiſe diſcern from the Forts, ſome Cattle that lay within a Mile and a half of the Town; and deſir'd him that he would Command out a Party to go and ſecure them with all expedition, leſt they ſhould be prevented by ſome of the Engliſh Forces: Upon which, Collo<g ref="char:EOLhyphen"/>nel <hi>Sarcsfield</hi> drew out a Party of about Three Hundred Horſe and Two Hundred Foot, which he led himſelf upon this En<g ref="char:EOLhyphen"/>terprize. He was no ſooner got without ſide the Town, but the Spyes gave Notice to Collonel <hi>Kirk,</hi> who was glad his Deſign began to work ſo anſwerable to his hope<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="2" facs="tcp:31817:2"/>and expectation: He then drew his Men into good Order, and March'd them with all poſſible ſilence, through the Wood, which led to the back-part of another, be<g ref="char:EOLhyphen"/>fore which Wood the Cattle were Gra<g ref="char:EOLhyphen"/>zing: Under this Cover they were very conveniently plac'd from the ſight of the Enemy, who within an hour and an half were advanc'd to the Cattle: upon which Collonel <hi>Kirk</hi> drew up his Men in order to Engage them upon the right ſide of the Wood, which lay between them and <hi>Dun<g ref="char:EOLhyphen"/>dalk;</hi> and as the <hi>Iriſh</hi> return'd with the Cattle, they fell upon them unawares; the ſurprize of which put them into ſuch Diſ<g ref="char:EOLhyphen"/>order, that they could not reduce them<g ref="char:EOLhyphen"/>ſelves into any poſture of Defence, but made their Oppoſition ſo confuſedly, that the Engliſh made a great Slaughter a<g ref="char:EOLhyphen"/>mongſt them, and put them to flight in a moment, purſuing of them almoſt to the Gate of the Town, Killing in all, about 3 Hundred and odd, and taking about Three<g ref="char:EOLhyphen"/>ſcore Priſoners; with an inconſiderable loſs on our ſide, ſaving one Captain, who is very much lamented. With this Suc<g ref="char:EOLhyphen"/>ceſs in his Stratagem, Collonel <hi>Kirk</hi> re<g ref="char:EOLhyphen"/>turn'd <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, bringing the Cattle along with him, all but two which were acci<g ref="char:EOLhyphen"/>dentally Kill'd by Chain-Shot in the Skir<g ref="char:EOLhyphen"/>miſh.</p>
+            <p>The Thoughts of His Majeſties coming to <hi>Ireland,</hi> hath ſo animated the hearts of the <hi>Engliſh</hi> Forces, that the Souldiers daily toſs up their Caps, crying, <hi>God Save King</hi> William, <hi>and ſend him ſafe to</hi> Ireland.</p>
+            <p>WE have an Account from <hi>Scotland,</hi> that ſeveral perſons diſaffected to that Government, who were Heretors to the late Lord <hi>Dundee,</hi> to promote and ſup<g ref="char:EOLhyphen"/>port the declining Intereſt of the Late King <hi>James,</hi> have made it their Buſineſs to apply themſelves to thoſe Gentry in <hi>Scotland,</hi> who they thought inclinable to their own Par<g ref="char:EOLhyphen"/>ty, to Engage them in a Bond of Aſſociati<g ref="char:EOLhyphen"/>on, to Aid and Aſſiſt, and make Contribu<g ref="char:EOLhyphen"/>tary Supplies to keep up the Rebellion in the High-lands, and aſſiſt Collonel <hi>Canon,</hi> who is the Chief Commander amongſt the <hi>High-landers.</hi> This Deſign had not been long in Agitation e're Sir <hi>Thomas Leven<g ref="char:EOLhyphen"/>ſton</hi> had ſome Intimation of it, who Com<g ref="char:EOLhyphen"/>mands a Regiment of Dr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oons at <hi>Inver<g ref="char:EOLhyphen"/>neſs,</hi> who having ſome Notice of a particu<g ref="char:EOLhyphen"/>lar day the Aſſociates intended a meeting, at the Lord <hi>Olyphant</hi>'s Houſe in <hi>Bamf,</hi> to Conſult a further Management of their Affairs, ſent 100 of his Men under the Command of Captain <hi>Hoy,</hi> giving them order to Surround the Houſe to prevent any Eſcapes, and ſome to enter and ſe<g ref="char:EOLhyphen"/>cure what Gentlemen they found in the Caball within door: According to their Orders they proceeded, and March'd to the Lord <hi>Olyphant</hi>'s Houſe with ſuch Secrecy, that they encompaſſed it before any could make their Eſcape, and entering the Houſe found 12 Gentlemen which were Stran<g ref="char:EOLhyphen"/>gers, beſides thoſe of the Family, which they immediately Secured, and making: further ſearch into the Cloſet, found the Original Bond of Aſſociation, with the Names of 400 Perſons, who had Sign'd it, ſome <hi>Clens</hi> and Men of Deſperate For<g ref="char:EOLhyphen"/>tunes, whoſe Neceſſities as much as Diſloy<g ref="char:EOLhyphen"/>alty has excited them to Rebellion; the Papers were immediately ſent to the Privy-Council, and from thence tranſmitted to His Majeſty, upon which Diſcovery the Privy Council, have ſent out Parties to Apprehend thoſe who have Sign'd the Aſ<g ref="char:EOLhyphen"/>ſociation: The Intention of theſe Aſſo<g ref="char:EOLhyphen"/>ciates were to ſtand by King <hi>James</hi> with their Lives and Fortunes; and make it the utmoſt of their Endeavour to Re-Eſtabliſh him in the Throne of <hi>Scotland;</hi> in order to which they were to make all the Force that poſſibly they could by next <hi>June,</hi> at which time they were to Joyn with Collo<g ref="char:EOLhyphen"/>nel <hi>Cannon,</hi> and the reſt of the Rebels now in <hi>Lochaber,</hi> and furniſh them with Victu<g ref="char:EOLhyphen"/>als and all neceſſary proviſions.</p>
+            <p>The Lord <hi>Oliphant</hi> and the reſt of the Conſpirators that were taken, were ſent under a ſtrong Guard to <hi>Aberden,</hi> where they remain Cloſe Priſoners, ſo that we hope by Gods providence to Diſcover and Confound all Conſpiracies and Evil De<g ref="char:EOLhyphen"/>vices hatch'd by Reſtleſs perſons, to under<g ref="char:EOLhyphen"/>mine him, who the Almighty through his Special providence has made our King, to his own Glory, and our Comfort.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Patridge,</hi> in <hi>Fleet-ſtreet.</hi>
+            </p>
+            <pb facs="tcp:31817:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
